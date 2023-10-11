@@ -6,6 +6,7 @@
 <v3>
 <v4>
 <v5>
+v6
 
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.sritejakv/splitwise.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.github.sritejakv%22%20AND%20a:%22splitwise%22)
